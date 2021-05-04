@@ -8,7 +8,8 @@ author_profile: true
 
 
 <H3>Working Papers </H3>
-<b>Stephen D. Schwab</b>  “<a href="https://stschwab.github.io/images/Manuscript_13DEC20.pdf">You Had Me at Hello: The Effects of Disruptions to the Patient-Physician Relationship</a>,” Updated December, 2020
+<b>Stephen D. Schwab</b>  "The Value of Specific Information: Evidence from Disruptions to the Patient-
+Physician Relationship,” 
 <br><br>
 
 Abby Alpert, <b>Stephen D. Schwab</b>, and Ben Ukert "Opioid Abuse and Employment Outcomes: Evidence from the U.S. Military"
