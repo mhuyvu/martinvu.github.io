@@ -8,8 +8,8 @@ author_profile: true
 
 
 <H3>Working Papers </H3>
-<b>Stephen D. Schwab</b>  <a href=""The Value of Specific Information: Evidence from Disruptions to the Patient-
-Physician Relationship,” </a>,”
+<b>Stephen D. Schwab</b>  "<a href="/images/JMP_20211017.pdf">The Value of Specific Information: Evidence from Disruptions to the Patient-
+Physician Relationship</a>”
 <br><br>
 
 Abby Alpert, <b>Stephen D. Schwab</b>, and Ben Ukert "Opioid Abuse and Employment Outcomes: Evidence from the U.S. Military"
