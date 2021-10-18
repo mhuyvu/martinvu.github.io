@@ -17,6 +17,10 @@ Abby Alpert, <b>Stephen D. Schwab</b>, and Ben Ukert "Opioid Abuse and Employmen
 
 
 <H3>Publications</H3>
+
+Brad Beauvais, Glen Gilson, <b>Steve Schwab </b>, Brittany Jaccaud, Taylor Pearce, and Thomas Holmes “<a href="https://www.mdpi.com/2227-9032/8/2/135">Overpriced? Are Hospital Prices Associated with the Quality of Care?</a>,” Healthcare, 8(2): May 2020.
+<br><br>
+
 Amelia M. Bond, <b>Stephen D. Schwab </b>“<a href="https://www.healthaffairs.org/doi/10.1377/hlthaff.2019.00298">Utilization Variaton in Military versus Civilian Care: Evidence from Tricare</a>,” Health Affairs, 38(8): August 2019.
 <br><br>
 
