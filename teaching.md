@@ -7,7 +7,13 @@ author_profile: true
 {% include base_path %}
 
 
-<H3>Finance</H3>
+<H3>Economics</H3>
+<b>Health Economics</b>   Nearly 60 years ago Nobel Laureate, Kenneth Arrow, noted that many of the assumptions critical to traditional economics break down in the medical field. Issues such as the inability to observe quality, differences in available information, and prices that often exceed a consumer’s lifetime earnings all add a layer of complexity to the traditional microeconomic model. In this course we will systematically address how these complexities affect consumers and producers of health care. For each component of the health care value chain, we will ground the current incentive structure in economic theory, and then consider the empirical evidence to date. We will then analyze the implications to consumers, producers, and society at large, of potential organizational strategies and policy changes.
+
+<b>Organizational Economics in Health Care</b>   People have goals, organizations do not. In this course we will apply economic principles within the organizational setting with special emphasis on the health care sector. Topics will include transaction costs, individual and group productivity, organizational structure, and task allocation among others.
+
+
+<H3>Finance</H3>   
 
 
 <b>Health Care Finance I: Financial Management of Health Care Organizations</b> This class is designed as an introductory course in the theory and principles of health care finance, which includes planning and controlling functions (time value of money, pro forma budgeting, ratio analysis), balance sheet management (working capital budgeting, debt & equity financing) and cost management (cost classification allocation, break even & variance analysis) among other topics. This is an applied course that combines theoretical (textbook) concepts with problems and computer exercises. Field professionals may be invited to augment discussion around current critical issues in health care finance.
@@ -24,5 +30,3 @@ author_profile: true
 
 <b>Quantitative Analysis III</b>  Advanced concepts, techniques, and technologies used in the scientific inquiry of applied clinical, administrative, and managerial research are presented. Decision-making, selection, computation, and interpretation of analytical procedures and methods are discussed. Emphasizing critical thinking and quantitative analysis, students select appropriate secondary data on a management problem and posit research questions, develop logical hypotheses linked to data and theory, analyze and make decisions and recommendations based on findings.
 
-<H3>Economics</H3>
-<b>Health Economics</b>   Nearly 60 years ago Nobel Laureate, Kenneth Arrow, noted that many of the assumptions critical to traditional economics break down in the medical field. Issues such as the inability to observe quality, differences in available information, and prices that often exceed a consumer’s lifetime earnings all add a layer of complexity to the traditional microeconomic model. In this course we will systematically address how these complexities affect consumers and producers of health care. For each component of the health care value chain, we will ground the current incentive structure in economic theory, and then consider the empirical evidence to date. We will then analyze the implications to consumers, producers, and society at large, of potential organizational strategies and policy changes.
