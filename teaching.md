@@ -11,7 +11,9 @@ author_profile: true
 <p><b>Health Economics</b>   Nearly 60 years ago Nobel Laureate, Kenneth Arrow, noted that many of the assumptions critical to traditional economics break down in the medical field. Issues such as the inability to observe quality, differences in available information, and prices that often exceed a consumer’s lifetime earnings all add a layer of complexity to the traditional microeconomic model. In this course we will systematically address how these complexities affect consumers and producers of health care. For each component of the health care value chain, we will ground the current incentive structure in economic theory, and then consider the empirical evidence to date. We will then analyze the implications to consumers, producers, and society at large, of potential organizational strategies and policy changes.</p>
 
 
-<p><b>Organizational Economics in Health Care</b>  People have goals, organizations do not. In this course we will apply economic principles within the organizational setting with special emphasis on the health care sector. Topics will include transaction costs, individual and group productivity, organizational structure, and task allocation among others.</p>
+<p><b>Organizational Economics in Health Care</b> As Oliver Williamson noted, much of neo-classical economics generalizes the firm as a ‘black box’ that converts inputs into outputs. While this can be a useful simplification, it conceals an enormous amount of complexity and heterogeneity. As most activity in the modern economy takes place within organizations, it is important to develop a deeper understanding of these actors. This is particularly relevant in health care where there is a highly differentiated division of labor, many decisions are made under a high level of uncertainty, and the boundaries of the firm are often opaque. The goal of this course is to develop an understanding of the key dynamics within  and between health care organizations and the policy and managerial implications of these insights.
+
+</p>
 
 
 <H3>Finance</H3>   
