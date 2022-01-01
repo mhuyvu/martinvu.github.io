@@ -8,7 +8,7 @@ author_profile: true
 
 
 <H3>Working Papers </H3>
-<b>Stephen D. Schwab</b>  "<a href="/images/JMP_20211017.pdf">The Value of Specific Information: Evidence from Disruptions to the Patient-
+<b>Stephen D. Schwab</b>  "<a href="/images/Schwab%20(2021)%20Value%20of%20Specific%20Information.pdf">The Value of Specific Information: Evidence from Disruptions to the Patient-
   Physician Relationship</a>” 
 <br><br>
 
