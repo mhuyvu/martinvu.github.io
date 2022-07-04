@@ -13,7 +13,7 @@ author_profile: true
 <br><br>
 
 Abby Alpert, <b>Stephen D. Schwab</b>, and Ben Ukert "<a href="https://www.nber.org/papers/w30110">Opioid Abuse and Employment Outcomes: Evidence from the U.S. Military</a>”  
-<br><br>
+<br>
 
 <b>Stephen D. Schwab</b>, Manasvini Singh "Power Dynamics in the Doctor-Patient Relationship"
 
