@@ -7,14 +7,15 @@ author_profile: true
 {% include base_path %}
 
 
-<H3>Working Papers </H3>
+<H3>Selected Working Papers </H3>
 <b>Stephen D. Schwab</b>  "<a href="/images/Schwab%20(2021)%20Value%20of%20Specific%20Information.pdf">The Value of Specific Information: Evidence from Disruptions to the Patient-
   Physician Relationship</a>” 
 <br><br>
 
-Abby Alpert, <b>Stephen D. Schwab</b>, and Ben Ukert "Opioid Abuse and Employment Outcomes: Evidence from the U.S. Military"
+Abby Alpert, <b>Stephen D. Schwab</b>, and Ben Ukert "<a href="https://www.nber.org/papers/w30110">Opioid Abuse and Employment Outcomes: Evidence from the U.S. Military</a>”  
+<br><br>
 
-
+<b>Stephen D. Schwab</b>, Manasvini Singh "Power Dynamics in the Doctor-Patient Relationship"
 
 <H3>Publications</H3>
 
