@@ -11,6 +11,6 @@ redirect_from:
 Lieutenant Colonel Steve Schwab is the Chief Financial Officer of [Brooke Army Medical Center](https://bamc.tricare.mil/About-Us), a level one trauma center and the Department of Defense's largest hospital. He is also an organizational health economist affiliated with Baylor University Department of Economics. His research centers around the impact of organizational structure and strategy on the cost and quality of care. He holds a PhD in Managerial Science and Applied Economics from the University of Pennsylvania Wharton School of Business and Master's degrees in health and business administration from Baylor.  
  
   
-Prior to Wharton, Steve served as the Chief Financial Officer for the [Walter Reed Army Institute of Research](http://www.wrair.army.mil/), the Department of Defense's largest biomedical research laboratory. He has served in the Army Medical Service Corps since 2002 including three tours of duty in Iraq, twice earning the Bronze Star Medal. He is seeking an academic career after his retirement from the Army.
+Prior to Wharton, Steve served as the Chief Financial Officer for the [Walter Reed Army Institute of Research](http://www.wrair.army.mil/), the Department of Defense's largest biomedical research laboratory. He has served in the Army Medical Service Corps since 2002 including three tours of duty in Iraq, twice earning the Bronze Star Medal. He plans to retire from the Army in summer, 2023.
 
 
