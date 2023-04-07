@@ -18,6 +18,8 @@ Abby Alpert, <b>Stephen D. Schwab</b>, and Ben Ukert "<a href="https://www.nber.
 <b>Stephen D. Schwab</b> and Manasvini Singh "<a href="/images/power_2023.03.20.pdf">How Power Shapes Behavior: Evidence from Physicians"
 
 <H3>Publications</H3>
+  
+Robert J. Walter,  <b>Stephen D. Schwab </b>, Matt Wilkes, Daniel Yourk, Nicole Zahradka, Juliana Pugmire, Adam Wolfberg, Amanda Merritt, Joshua Boster, Kevin Loudermilk, Sean J. Hipp, Michael J. Morris "<a href="https://www.jmir.org/2023/1/e44121/">Financial and Clinical Impact of Virtual Care During the COVID-19 Pandemic: Difference-in-Differences Analysis</a>," Journal of Medical Internet Research, 25 e44121 (2023)
 
 Brad Beauvais, Glen Gilson, <b>Steve Schwab </b>, Brittany Jaccaud, Taylor Pearce, and Thomas Holmes “<a href="https://www.mdpi.com/2227-9032/8/2/135">Overpriced? Are Hospital Prices Associated with the Quality of Care?</a>,” Healthcare, 8(2): May 2020.
 <br><br>
