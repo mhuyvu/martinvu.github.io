@@ -15,7 +15,7 @@ author_profile: true
 
 Abby Alpert, <b>Stephen D. Schwab</b>, and Ben Ukert "<a href="https://www.nber.org/papers/w30110">Opioid Abuse and Employment Outcomes: Evidence from the U.S. Military</a>”  
 
-<b>Stephen D. Schwab</b> and Manasvini Singh "<a href="https://www.dropbox.com/s/80qr9jucgsatwea/Power_most_recent.pdf?dl=0">How Power Shapes Behavior: Evidence from Physicians"
+<b>Stephen D. Schwab</b> and Manasvini Singh "<a href="https://www.dropbox.com/scl/fi/j5s9jlwngqrue0ilafy0z/Power-MS-SS.pdf?rlkey=jqu23etvm4lsfix7v98rkma9o&dl=0">How Power Shapes Behavior: Evidence from Physicians"
 
 <H3>Publications</H3>
   
