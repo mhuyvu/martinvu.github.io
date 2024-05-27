@@ -13,7 +13,7 @@ I teach a mix of health-care specific and general management courses. I am happy
 <p><b>Introduction to Healthcare Management</b> This course will provide students with an understanding of the skills, knowledge and abilities needed to be successful leaders in the dynamic, complex and rewarding field of healthcare management. Topics include the economic, regulatory, political and social framework of the healthcare industry, as well as the roles and expectations of managers in planning, organizing, coordinating and overseeing the delivery of healthcare services. A broad spectrum of healthcare organizations and settings will be included with emphasis on practical relevance and interaction with local healthcare organizations.  <a href="/images/Fall-2023-MGT-4103-001-Introduction-to-Healthcare-Management">Link to syllabus</a> </p> 
 
 
-<p><b>Human Resources for Competitive Advantage</b>  This course examines how human resource management aids in developing an organization’s competitive advantage. Emphasis is on the processes and activities used to formulate HR objectives, practices, and policies to meet the organizational needs and opportunities, guide and lead the change process, and evaluate the contributions of HR to organizational effectiveness. Emphasis is on human resources information systems (HRIS) and human resources data analytics. <i> Course in development - link to syllabus coming soon!</i>  </a> </p> 
+<p><b>Human Resources for Competitive Advantage</b>  This course examines how human resource management aids in developing an organization’s competitive advantage. Emphasis is on the processes and activities used to formulate HR objectives, practices, and policies to meet the organizational needs and opportunities, guide and lead the change process, and evaluate the contributions of HR to organizational effectiveness. Emphasis is on human resources information systems (HRIS) and human resources data analytics. <i> Course in development - link to syllabus coming soon!</i>  </p> 
 
 
 <H3>Master's (including Executive)</H3>
@@ -28,10 +28,6 @@ I teach a mix of health-care specific and general management courses. I am happy
 
 
 
-
-
-
-</p>
 
 
 <H3>Doctoral</H3>
