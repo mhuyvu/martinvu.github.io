@@ -9,8 +9,7 @@ author_profile: true
 
 <H3>Selected Working Papers </H3>
 
-<b>Stephen D. Schwab</b>  "<a href="/images/specific_knowledge.pdf">The Value of Specific Knowledge: Evidence from Disruptions to the Patient-
-  Physician Relationship</a>” 
+
 
 
 Abby Alpert, <b>Stephen D. Schwab</b>, and Ben Ukert "<a href="https://www.nber.org/papers/w30110">Opioid Abuse and Employment Outcomes: Evidence from the U.S. Military</a>”  
@@ -18,6 +17,9 @@ Abby Alpert, <b>Stephen D. Schwab</b>, and Ben Ukert "<a href="https://www.nber.
 
 
 <H3>Publications</H3>
+
+<b>Stephen D. Schwab</b> The Value of Specific Knowledge: Evidence from Disruptions to the Patient-
+  Physician Relationship (forthcoming in _Management Science_)
 
 <b>Stephen D. Schwab</b> and Manasvini Singh "<a href="https://www.science.org/doi/10.1126/science.adl3835">How Power Shapes Behavior: Evidence from Physicians"</a>, Science, 384(6697), 802-808, 2024
 
