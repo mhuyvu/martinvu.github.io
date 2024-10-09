@@ -4,6 +4,19 @@ layout: default
 
 {% include base_path %}
 
+{% if site.analytics.provider == "google" and site.analytics.google.tracking_id %}
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics.google.tracking_id }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ site.analytics.google.tracking_id }}');
+</script>
+<!-- End Google Analytics -->
+{% endif %}
+
+
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% endif %}
