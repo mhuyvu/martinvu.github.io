@@ -12,7 +12,7 @@ author_profile: true
 
 
 
-Abby Alpert, <b>Stephen D. Schwab</b>, and Ben Ukert "<a href="https://www.nber.org/papers/w30110">Opioid Abuse and Employment Outcomes: Evidence from the U.S. Military< (revisions requested by Review of Economics and Statistics)/a>”  
+Abby Alpert, <b>Stephen D. Schwab</b>, and Ben Ukert "<a href="https://www.nber.org/papers/w30110">Opioid Abuse and Employment Outcomes: Evidence from the U.S. Military/a>" (revisions requested by Review of Economics and Statistics)  
 
 
 
