@@ -23,7 +23,7 @@ Abby Alpert, <b>Stephen D. Schwab</b>, and Ben Ukert "<a href="https://www.nber.
 
 <b>Stephen D. Schwab</b> and Manasvini Singh "<a href="https://www.science.org/doi/10.1126/science.adl3835">How Power Shapes Behavior: Evidence from Physicians"</a>, Science, 384(6697), 802-808, 2024
 
-Kimberly Decker, <b>Stephen D. Schwab</b>,  Gloria Bazzoli, Askar Chukmaitov, and Christian Wernz "<a href="https://journals.lww.com/hcmrjournal/fulltext/2023/07000/Impact_of_performance_based_budgeting_on_quality.6.aspx">The Impact of Performance-Based Budgeting on Health Care Outcomes"</a>, Health Care Management Review, 48(3),  2023
+Kimberly Decker, <b>Stephen D. Schwab</b>,  Gloria Bazzoli, Askar Chukmaitov, and Christian Wernz "<a href="https://journals.lww.com/hcmrjournal/fulltext/2023/07000/Impact_of_performance_based_budgeting_on_quality.6.aspx">The Impact of Performance-Based Budgeting on Quality Outcomes"</a>, Health Care Management Review, 48(3),  2023
   
 Robert J Walter,  <b>Stephen D Schwab </b>, Matt Wilkes, Daniel Yourk, Nicole Zahradka, Juliana Pugmire, Adam Wolfberg, Amanda Merritt, Joshua Boster, Kevin Loudermilk, Sean J Hipp, Michael J Morris "<a href="https://www.jmir.org/2023/1/e44121/">Financial and Clinical Impact of Virtual Care During the COVID-19 Pandemic: Difference-in-Differences Analysis</a>," Journal of Medical Internet Research, 25 e44121, 2023
   <br>
