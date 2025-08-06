@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a health economist specialising in the economics of genomic and precision medicine. [The University of Texas at San Antonio](https://www.utsa.edu/). My research centers around workforce management and organizational performance with a specific focus on the role interpersonal relationships play in maximizing performance. I have a PhD in Managerial Science and Applied Economics from the University of Pennsylvania Wharton School of Business and Master's degrees in health and business administration from Baylor University. 
+I am a health economist specialising in the economics of genomic and precision medicine. I am a health economist specialising in the economics of genomic and precision medicine. I conduct health economic research to inform policy and regulatory decisions around genomic sequencing in clinical care and population use. 
 
- I am also a retired Army Lieutenant Colonel with over 21 years of professional and leadership experience. I served as the Chief Financial Officer of [Brooke Army Medical Center](https://bamc.tricare.mil/About-Us), a level one trauma center and the Department of Defense's largest hospital. I also served as the Chief Financial Officer for the [Walter Reed Army Institute of Research](http://www.wrair.army.mil/), the Department of Defense's largest biomedical research laboratory. I continue to partner with the Military Health System and [the Geneva Foundation](https://genevausa.org/) to advance military medicine through research, development, and education.
- 
+Since June 2024, I am based at the Health Economics and Policy Research Unit at the [Wolfson Institute of Population Health, Queen Mary University of London](https://www.qmul.ac.uk/wiph/). At Queen Mary, I am predominantly involved in two major research projects:
+1. The Generation Study: My work with the Generation Study is to assess the impact of genomic newborn screening on healthcare resource use and costs, quality of life outcomes and non-health-related outcomes, to inform the Genomics England health economics model.
