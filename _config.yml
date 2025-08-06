@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Stephen D Schwab, PhD"
+title                    : "Martin Vu, PhD"
 title_separator          : "-"
-name                     : &name "Stephen Schwab"
+name                     : &name "Martin Vu"
 description              : &description 
-url                      : https://stschwab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mhuyvu.github.io/martinvu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "stschwab.github.io"
+repository               : "mhuyvu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -73,13 +73,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Steve Schwab"
+  name             : "Martin Vu"
   avatar           : "steveheadshot.jpg"
-  bio              : "Assistant Professor of Management, UTSA Alvarez College of Business"
-  location         : "San Antonio, Texas"
+  bio              : "Health Economist, Queen Mary University of London"
+  location         : "London, UK"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=lbadXFMAAAAJ&hl=en&oi=sra"
-  email            : "stephen.schwab@utsa.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=Rf-ILqwAAAAJ&hl=en"
+  email            : "martin.vu@qmul.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
@@ -87,18 +87,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "stschwab"
+  github           : "mhuyvu"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/martin-vu-240696149/"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "sdschwab"
+  twitter          : "mhuyvu"
   vine             :
   weibo            :
   xing             :
