@@ -1,5 +1,5 @@
 ---
-title: "Professional"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
@@ -7,19 +7,20 @@ author_profile: true
 {% include base_path %}
 
 
-<H3>Selected Working Papers </H3>
-
-
-
-
-Abby Alpert, <b>Stephen D. Schwab</b>, and Ben Ukert "<a href="https://www.nber.org/papers/w30110">Opioid Abuse and Employment Outcomes: Evidence from the U.S. Military"</a> (revisions requested by Review of Economics and Statistics)  
-
-
-
 <H3>Publications</H3>
 
-<b>Stephen D. Schwab</b> "<a href="https://pubsonline-informs-org.libweb.lib.utsa.edu/doi/10.1287/mnsc.2021.03884">The Value of Specific Knowledge: Evidence from Disruptions to the Patient-
-  Physician Relationship"</a> (accepted in _Management Science_)
+Vu M, Degeling K, Martyn M, Lynch E, Chong B, Gaff C, IJzerman M. "<a href="https://doi.org/10.1038/s41436-020-01030-8">Evaluating the resource implications of different service delivery models for offering additional genomic findings. <i> Genetics in Medicine <i/> 2020;23(4):606-613.
+
+Degeling, K., Vu, M., Koffijberg, H., Wong, H-L., Koopman, M., Gibbs, P., IJzerman M. 
+(2020). Clinical implications of assumptions in cost-effectiveness analyses of 
+systemic therapies for metastatic colorectal cancer. Journal of Clinical Oncology, 
+38(15 suppl). 
+
+Degeling, K., Vu, M., Koffijberg, H., Wong, H-L., Koopman, M., Gibbs, P., IJzerman M. 
+(2020). Health economic models for metastatic colorectal cancer: a methodological 
+review. PharmacoEconomics, 38: 683-713. 
+
+
 
 <b>Stephen D. Schwab</b> and Manasvini Singh "<a href="https://www.science.org/doi/10.1126/science.adl3835">How Power Shapes Behavior: Evidence from Physicians"</a>, Science, 384(6697), 802-808, 2024
 
