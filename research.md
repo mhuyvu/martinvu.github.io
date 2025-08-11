@@ -9,7 +9,7 @@ author_profile: true
 
 <H3>Publications</H3>
 
-Vu M, Degeling K, Martyn M, Lynch E, Chong B, Gaff C, IJzerman M. "<a href="https://doi.org/10.1038/s41436-020-01030-8">Evaluating the resource implications of different service delivery models for offering additional genomic findings. <i> Genetics in Medicine <i/> 2020;23(4):606-613.
+Vu M, Degeling K, Martyn M, Lynch E, Chong B, Gaff C, IJzerman M. <a href="https://doi.org/10.1038/s41436-020-01030-8">Evaluating the resource implications of different service delivery models for offering additional genomic findings. <i> Genetics in Medicine </i> 2020;23(4):606-613.
 
 Degeling, K., Vu, M., Koffijberg, H., Wong, H-L., Koopman, M., Gibbs, P., IJzerman M. 
 (2020). Clinical implications of assumptions in cost-effectiveness analyses of 
