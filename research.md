@@ -9,9 +9,7 @@ author_profile: true
 
 <H3>Publications</H3>
 
-Vu, M., Carvalho, N., Buchbinder, R., Clarke, P.M., Tran-Duy, A. (2021). Impact of comorbid 
-conditions on health care expenditure and work-related outcomes in patients with 
-rheumatoid arthritis. The Journal of Rheumatology. 48(8):1221-1229.
+<b>Vu M</b>, Carvalho N, Buchbinder R, Clarke PM, Tran-Duy A.<a href="https://doi.org/10.3899/jrheum.200231">Impact of comorbid conditions on health care expenditure and work-related outcomes in patients with rheumatoid arthritis. <i>The Journal of Rheumatology</i>. 2021;48(8):1221-1229.
 
 <b>Vu M</b>, Degeling K, Martyn M, Lynch E, Chong B, Gaff C, IJzerman M. <a href="https://doi.org/10.1038/s41436-020-01030-8">Evaluating the resource implications of different service delivery models for offering additional genomic findings</a>. <i> Genetics in Medicine </i> 2020;23(4):606-613.
 
