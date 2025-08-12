@@ -21,7 +21,7 @@ Degeling K, <b>Vu M</b>, Koffijberg H, Wong H-L, Koopman M, Gibbs P, IJzerman M.
 
 <H3>Poster presentations</H3>
 
-<b>Vu M</b>, Carvalho N, Buchbinder R, McColl G, Clarke PM, Tran-Duy A. Impact of comorbid conditions on health care expenditure and work-related outcomes in patients with rheumatoid arthritis: a retrospective analysis using the Medical Expenditure Panel Survey in the period 2006-2015. ISPOR 2019, New Orleans, USA.
+<b>Vu M</b>, Carvalho N, Buchbinder R, McColl G, Clarke PM, Tran-Duy A. Impact of comorbid conditions on health care expenditure and work-related outcomes in patients with rheumatoid arthritis: a retrospective analysis using the Medical Expenditure Panel Survey in the period 2006-2015. <span style="color: blue;">ISPOR 2019, New Orleans, USA.ISPOR 2019, New Orleans, USA.</span>
 
 <H3>Papers discussed by others at conferences</H3>
 
