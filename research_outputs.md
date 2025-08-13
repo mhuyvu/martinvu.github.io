@@ -47,6 +47,7 @@ Economic evaluations of molecular biomarker tests in blood cancers: a systematic
 <i>ISPOR Virtual Student Symposium 2021, Virtual.</i>
 
 Economic value assessment of next-generation sequencing technologies in blood cancers. 
+
 <i>UMCCR Seminar Series 2021, Virtual.</i>  
 
 <H3>Organised sessions at conferences</H3>
