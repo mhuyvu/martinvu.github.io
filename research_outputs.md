@@ -9,6 +9,7 @@ author_profile: true
 
 <H3>Publications</H3>
 
+
 <i>2024</i>
 
 Lewis C, Boardman F, Buchanan J, Clark S, Gilchrist K, Hardelid P, Hunter A, Jones J, Leeson-Beevers K, Stafford-Smith B, Vindrola-Padros C, <b>Vu M</b>,  Wu WH, Zylbersztejn A, Hill M. <a href="https://www.medrxiv.org/content/10.1101/2024.05.14.24307295v1">Exploring the feasibility, acceptability and impact of genomic newborn screening for rare diseases in England: a study protocol for the Generation Study - Process and Impact Evaluation</a>. <i>medRxiv</i> 2024.
