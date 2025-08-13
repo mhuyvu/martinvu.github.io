@@ -59,6 +59,8 @@ Exploring the health economics of genomic newborn screening. <i>IHEA Congress 20
 
 <b>Vu M</b>, Clark S, Gilchrist K, Boardman F, Hardelid P, Hunter A, Jones J, Leeson-Beevers K, McLeod A, Stafford-Smith B, Vindrola-Padros C, Wu WH, Zylbersztejn A, Lewis C, Hill M, Buchanan J. From blood spot to genomics: estimating the cost of genomic newborn screening in England. <i>Genomics England Research Summit 2024, London, UK.</i>
 
+McLeod A, Clark S, Gilchrist K, Boardman F, Buchanan J, Hardelid P, Hunter A, Jones J, Leeson-Beevers K, <b>Vu M</b>, Vindrola-Padros C, Zylbersztejn A, Zylbersztejn A, Lewis C, Hill M, Vindrola-Padros C. What are the early enablers and barriers to implementing the Generation Study in the English National Health Service? Early insights from health professionals at recruiting sites. <i>Genomics England Research Summit 2024, London, UK.</i>
+
 <b>Vu M</b>, Degeling K, Thompson ER, Blombery P, Westerman D, IJzerman M. Cost-effectiveness of TP53 and IGHV biomarker testing prior to first-line treatment with novel agents for chronic lymphocytic leukemia. <i>ISPOR Europe 2022, Vienna, Austria.</i>
 
 Ryland GL, Bajel A, Dickinson M, Ekert PG, Hofmann O, IJzerman M, Ng AP, Oshlack A, Schmidt B, Tiong IS, <b>Vu M</b>, Westerman DA, Grimmond S, Blombery P. Diagnostic utility of multimodal genomic profiling for molecular classification and MRD assessment in adult B-cell acute lymphoblastic leukemia. <i>2021 ASH Annual Meeting, Virtual.</i>
