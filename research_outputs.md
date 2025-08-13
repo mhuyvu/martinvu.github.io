@@ -39,6 +39,8 @@ Degeling K, <b>Vu M</b>, Koffijberg H, Wong H-L, Koopman M, Gibbs P, IJzerman M.
 
 <H3>Oral presentations</H3>
 
+Cost-effectiveness of clinical metagenomics vs blood culture for detecting pathogens in UK endocarditis patients: health economic analysis plan. <i>IHEA Econ-Omics Special Interest Group ECR Journal Club 2025, Online.</i>
+
 Economic impact of WGTS vs. routine diagnostic molecular testing to stratify patients with B-ALL. <i>Molecular Diagnostics Symposium 2024, Zurich, Switzerland.</i>
 
 Demonstrating the economic value of genomic testing in blood cancers. <i>UMCCR Seminar Series 2023, Melbourne, Australia.</i>   
