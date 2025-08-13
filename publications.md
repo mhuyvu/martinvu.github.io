@@ -29,7 +29,16 @@ Degeling K, <b>Vu M</b>, Koffijberg H, Wong H-L, Koopman M, Gibbs P, IJzerman M.
 
 <H3>Publications in progress</H3>
 
-<H3>Presentations</H3>
+<H3>Oral presentations</H3>
+
+Demonstrating the economic value of genomic testing in blood cancers. <i>UMCCR Seminar Series 2023, Melbourne, Australia.</i>   
+
+Health economics of precision medicine in chronic lymphocytic leukaemia: a cost-effectiveness study. <i>ISPOR Victoria and Tasmania Student Chapter and ISPOR National University of Ireland, Galway Student Chapter Webinar 2022, Virtual.</i>
+
+Economic evaluations of molecular biomarker tests in blood cancers: a systematic review. <i>ISPOR Virtual Student Symposium 2021, Virtual.</i>
+
+Economic value assessment of next-generation sequencing technologies in blood cancers. <i>UMCCR Seminar Series 2021, Virtual.</i>  
+
 
 <H3>Organised sessions at conferences</H3>
 
