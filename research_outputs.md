@@ -11,7 +11,7 @@ author_profile: true
 
 <i>2024</i>
 
-Lewis C, Boardman F, Buchanan J, Clark S, Gilchrist K, Hardelid P, Hunter A, Jones J, Leeson-Beevers K, Stafford-Smith B, Vindrola-Padros C, <b>Vu M</b>,  Wu WH, Zylbersztejn Hill M. <a href="https://www.medrxiv.org/content/10.1101/2024.05.14.24307295v1">Exploring the feasibility, acceptability and impact of genomic newborn screening for rare diseases in England: a study protocol for the Generation Study - Process and Impact Evaluation</a>. <i>medRxiv</i> 2024.
+Lewis C, Boardman F, Buchanan J, Clark S, Gilchrist K, Hardelid P, Hunter A, Jones J, Leeson-Beevers K, Stafford-Smith B, Vindrola-Padros C, <b>Vu M</b>,  Wu WH, Zylbersztejn A, Hill M. <a href="https://www.medrxiv.org/content/10.1101/2024.05.14.24307295v1">Exploring the feasibility, acceptability and impact of genomic newborn screening for rare diseases in England: a study protocol for the Generation Study - Process and Impact Evaluation</a>. <i>medRxiv</i> 2024.
 
 <b>Vu M</b>, Degeling K, Westerman D, IJzerman M. <a href="https://doi.org/10.1016/j.jcpo.2024.100501">Scenario analysis and multi criteria decision analysis to explore alternative reimbursement pathways for whole genome sequencing for blood cancer patients</a>. <i>Journal of Cancer Policy</i> 2024;41:100501.	
 
@@ -50,7 +50,11 @@ Economic value assessment of next-generation sequencing technologies in blood ca
 
 <H3>Organised sessions at conferences</H3>
 
+Exploring the health economics of genomic newborn screening. <i>IHEA Congress 2025, Bali, Indonesia.</i>
+
 <H3>Poster presentations</H3>
+
+<b>Vu M</b>, Clark S, Gilchrist K, Boardman F, Hardelid P, Hunter A, Jones J, Leeson-Beevers K, McLeod A, Stafford-Smith B, Vindrola-Padros C, Wu WH, Zylbersztejn A, Lewis C, Hill M, Buchanan J. From blood spot to genomics: estimating the cost of genomic newborn screening in England. <i>Genomics England Research Summit 2024, London, UK.</i>
 
 <b>Vu M</b>, Degeling K, Thompson ER, Blombery P, Westerman D, IJzerman M. Cost-effectiveness of TP53 and IGHV biomarker testing prior to first-line treatment with novel agents for chronic lymphocytic leukemia. <i>ISPOR Europe 2022, Vienna, Austria.</i>
 
@@ -61,5 +65,7 @@ Degeling K, <b>Vu M</b>, Koffijberg H, Wong H-L, Koopman M, Gibbs P, IJzerman M.
 <b>Vu M</b>, Carvalho N, Buchbinder R, McColl G, Clarke PM, Tran-Duy A. Impact of comorbid conditions on health care expenditure and work-related outcomes in patients with rheumatoid arthritis: a retrospective analysis using the Medical Expenditure Panel Survey in the period 2006-2015. <i>ISPOR 2019, New Orleans, USA.</i>
 
 <H3>Papers discussed by others at conferences</H3>
+
+Genomic sequencing in newborns to screen rare treatable conditions: a micro-costing analysis. <i>Health Economists' Study Group Meeting 2025, Office of Health Economics, UK.</i>
 
 
