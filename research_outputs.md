@@ -54,7 +54,7 @@ Degeling K, <b>Vu M</b>, Koffijberg H, Wong H-L, Koopman M, Gibbs P, IJzerman M.
 
 <H3>Organised sessions at conferences</H3>
 
-Exploring the health economics of genomic newborn screening. <i>IHEA Congress 2025, Bali, Indonesia.</i>
+<a href="https://healtheconomics.confex.com/healtheconomics/2025/meetingapp.cgi/Session/3006">Exploring the health economics of genomic newborn screening</a>. <i>IHEA Congress 2025, Bali, Indonesia.</i>
 
 <H3>Poster presentations</H3>
 
