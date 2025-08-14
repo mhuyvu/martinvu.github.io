@@ -33,23 +33,24 @@ Fagery M, Khorshidi HA, Wong SQ, <b>Vu M</b>, IJzerman M. <a href="https://doi.o
 <b>Vu M</b>, Carvalho N, Buchbinder R, Clarke PM, Tran-Duy A. <a href="https://doi.org/10.3899/jrheum.200231">Impact of comorbid conditions on health care expenditure and work-related outcomes in patients with rheumatoid arthritis</a>. <i>The Journal of Rheumatology</i> 2021;48(8):1221-1229.
 
 <i>2020</i>
+
 <b>Vu M</b>, Degeling K, Martyn M, Lynch E, Chong B, Gaff C, IJzerman M. <a href="https://doi.org/10.1038/s41436-020-01030-8">Evaluating the resource implications of different service delivery models for offering additional genomic findings</a>. <i> Genetics in Medicine </i> 2020;23(4):606-613.
 
-Degeling K, <b>Vu M</b>, Koffijberg H, Wong H-L, Koopman M, Gibbs P, IJzerman M. <a href="https://doi.org/10.1007/s40273-020-00908-4.">Health economic models for metastatic colorectal cancer: a methodological review</a>. <i>PharmacoEconomics</i> 2020;38(7):683-713.
+Degeling K, <b>Vu M</b>, Koffijberg H, Wong H-L, Koopman M, Gibbs P, IJzerman M. <a href="https://doi.org/10.1007/s40273-020-00908-4">Health economic models for metastatic colorectal cancer: a methodological review</a>. <i>PharmacoEconomics</i> 2020;38(7):683-713.
 
 <H3>Oral presentations</H3>
 
-Cost-effectiveness of clinical metagenomics vs blood culture for detecting pathogens in UK endocarditis patients: health economic analysis plan. <i>IHEA Econ-Omics Special Interest Group ECR Journal Club 2025, Online.</i>
+<a href="https://healtheconomics.org/event/early-career-researcher-ecr-journal-club/">Cost-effectiveness of clinical metagenomics vs blood culture for detecting pathogens in UK endocarditis patients: health economic analysis plan</a>. <i>IHEA Econ-Omics Special Interest Group ECR Journal Club 2025, Online.</i>
 
-Economic impact of WGTS vs. routine diagnostic molecular testing to stratify patients with B-ALL. <i>Molecular Diagnostics Symposium 2024, Zurich, Switzerland.</i>
+<a href="https://molekularediagnostik.ch/images/pdf/MD_Einl_Symposium_25_final.pdf">Economic impact of WGTS vs. routine diagnostic molecular testing to stratify patients with B-ALL</a>. <i>Molecular Diagnostics Symposium 2025, Zurich, Switzerland.</i>
 
-Demonstrating the economic value of genomic testing in blood cancers. <i>UMCCR Seminar Series 2023, Melbourne, Australia.</i>   
+<a href="https://genomic-cancer-medicine.unimelb.edu.au/news-and-events/events/seminar-martin-vu-and-bishma-jayathilaka">Demonstrating the economic value of genomic testing in blood cancers</a>. <i>UMCCR Seminar Series 2023, Melbourne, Australia.</i>   
 
-Health economics of precision medicine in chronic lymphocytic leukaemia: a cost-effectiveness study. <i>ISPOR Victoria and Tasmania Student Chapter and ISPOR National University of Ireland, Galway Student Chapter Webinar 2022, Virtual.</i>
+<a href="https://www.ispor.org/docs/default-source/student-newsletters/november-2023-ispor-student-newsletter.pdf?sfvrsn=a57516b5_1">Health economics of precision medicine in chronic lymphocytic leukaemia: a cost-effectiveness study</a>. <i>ISPOR Victoria and Tasmania Student Chapter and ISPOR National University of Ireland, Galway Student Chapter Webinar 2022, Virtual.</i>
 
-Economic evaluations of molecular biomarker tests in blood cancers: a systematic review. <i>ISPOR Virtual Student Symposium 2021, Virtual.</i>
+<a href="https://isporac.org/event/virtual-student-symposium-2021-preparing-health-systems-for-the-future/">Economic evaluations of molecular biomarker tests in blood cancers: a systematic review</a>. <i>ISPOR Victoria and Tasmania Student Chapter and ISPOR Sydeny Student Chapter Virtual Student Symposium 2021, Virtual.</i>
 
-Economic value assessment of next-generation sequencing technologies in blood cancers. <i>UMCCR Seminar Series 2021, Virtual.</i>  
+<a href="https://genomic-cancer-medicine.unimelb.edu.au/news-and-events/events/seminar-economic-value-assessment-of-next-generation-sequencing-technologies-in-blood-cancers">Economic value assessment of next-generation sequencing technologies in blood cancers</a>. <i>UMCCR Seminar Series 2021, Virtual.</i>  
 
 <H3>Organised sessions at conferences</H3>
 
@@ -57,20 +58,20 @@ Exploring the health economics of genomic newborn screening. <i>IHEA Congress 20
 
 <H3>Poster presentations</H3>
 
-<b>Vu M</b>, Clark S, Gilchrist K, Boardman F, Hardelid P, Hunter A, Jones J, Leeson-Beevers K, McLeod A, Stafford-Smith B, Vindrola-Padros C, Wu WH, Zylbersztejn A, Lewis C, Hill M, Buchanan J. From blood spot to genomics: estimating the cost of genomic newborn screening in England. <i>Genomics England Research Summit 2024, London, UK.</i>
+<b>Vu M</b>, Clark S, Gilchrist K, Boardman F, Hardelid P, Hunter A, Jones J, Leeson-Beevers K, McLeod A, Stafford-Smith B, Vindrola-Padros C, Wu WH, Zylbersztejn A, Lewis C, Hill M, Buchanan J. From blood spot to genomics: estimating the cost of genomic newborn screening in England. <i>Genomics England Research Summit 2025, London, UK.</i>
 
-McLeod A, Clark S, Gilchrist K, Boardman F, Buchanan J, Hardelid P, Hunter A, Jones J, Leeson-Beevers K, <b>Vu M</b>, Vindrola-Padros C, Zylbersztejn A, Zylbersztejn A, Lewis C, Hill M, Vindrola-Padros C. What are the early enablers and barriers to implementing the Generation Study in the English National Health Service? Early insights from health professionals at recruiting sites. <i>Genomics England Research Summit 2024, London, UK.</i>
+McLeod A, Clark S, Gilchrist K, Boardman F, Buchanan J, Hardelid P, Hunter A, Jones J, Leeson-Beevers K, <b>Vu M</b>, Vindrola-Padros C, Zylbersztejn A, Zylbersztejn A, Lewis C, Hill M, Vindrola-Padros C. What are the early enablers and barriers to implementing the Generation Study in the English National Health Service? Early insights from health professionals at recruiting sites. <i>Genomics England Research Summit 2025, London, UK.</i>
 
-<b>Vu M</b>, Degeling K, Thompson ER, Blombery P, Westerman D, IJzerman M. Cost-effectiveness of TP53 and IGHV biomarker testing prior to first-line treatment with novel agents for chronic lymphocytic leukemia. <i>ISPOR Europe 2022, Vienna, Austria.</i>
+<b>Vu M</b>, Degeling K, Thompson ER, Blombery P, Westerman D, IJzerman M. <a href="https://www.valueinhealthjournal.com/article/S1098-3015(22)02597-9/fulltext">Cost-effectiveness of TP53 and IGHV biomarker testing prior to first-line treatment with novel agents for chronic lymphocytic leukemia</a>. <i>ISPOR Europe 2022, Vienna, Austria.</i>
 
-Ryland GL, Bajel A, Dickinson M, Ekert PG, Hofmann O, IJzerman M, Ng AP, Oshlack A, Schmidt B, Tiong IS, <b>Vu M</b>, Westerman DA, Grimmond S, Blombery P. Diagnostic utility of multimodal genomic profiling for molecular classification and MRD assessment in adult B-cell acute lymphoblastic leukemia. <i>2021 ASH Annual Meeting, Virtual.</i>
+Ryland GL, Bajel A, Dickinson M, Ekert PG, Hofmann O, IJzerman M, Ng AP, Oshlack A, Schmidt B, Tiong IS, <b>Vu M</b>, Westerman DA, Grimmond S, Blombery P. <a href="https://ashpublications.org/blood/article/138/Supplement%201/274/479558/Diagnostic-Utility-of-Multimodal-Genomic-Profiling">Diagnostic utility of multimodal genomic profiling for molecular classification and MRD assessment in adult B-cell acute lymphoblastic leukemia</a>. <i>2021 ASH Annual Meeting, Virtual.</i>
 
-Degeling K, <b>Vu M</b>, Koffijberg H, Wong H-L, Koopman M, Gibbs P, IJzerman M. Clinical implications of assumptions in cost-effectiveness analyses of systemic therapies for metastatic colorectal cancer. <i>ASCO 2020, Virtual.</i>
+Degeling K, <b>Vu M</b>, Koffijberg H, Wong H-L, Koopman M, Gibbs P, IJzerman M. <a href="https://ascopubs.org/doi/10.1200/JCO.2020.38.15_suppl.e16021"> Clinical implications of assumptions in cost-effectiveness analyses of systemic therapies for metastatic colorectal cancer</a>. <i>ASCO 2020, Virtual.</i>
 
-<b>Vu M</b>, Carvalho N, Buchbinder R, McColl G, Clarke PM, Tran-Duy A. Impact of comorbid conditions on health care expenditure and work-related outcomes in patients with rheumatoid arthritis: a retrospective analysis using the Medical Expenditure Panel Survey in the period 2006-2015. <i>ISPOR 2019, New Orleans, USA.</i>
+<b>Vu M</b>, Carvalho N, Buchbinder R, McColl G, Clarke PM, Tran-Duy A. <a href="https://www.valueinhealthjournal.com/article/S1098-3015(19)32030-3/fulltext">Impact of comorbid conditions on health care expenditure and work-related outcomes in patients with rheumatoid arthritis: a retrospective analysis using the Medical Expenditure Panel Survey in the period 2006-2015</a>. <i>ISPOR 2019, New Orleans, USA.</i>
 
 <H3>Papers discussed by others at conferences</H3>
 
-Genomic sequencing in newborns to screen rare treatable conditions: a micro-costing analysis. <i>Health Economists' Study Group Meeting 2025, Office of Health Economics, UK.</i>
+<a href="https://hesg.org.uk/wp-content/uploads/2025/05/HESG-Summer-25-Final-Programme-1.pdf">Genomic sequencing in newborns to screen rare treatable conditions: a micro-costing analysis</a>. <i>Health Economists' Study Group Meeting 2025, Office of Health Economics, UK.</i>
 
 
